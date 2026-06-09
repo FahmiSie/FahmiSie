@@ -66,10 +66,6 @@
 ### My Github Stats
 
 <p align="left">
-<img src="https://komarev.com/ghpvc/?username=FahmiSie&label=Profile+Views&color=orange&style=flat" alt="Profile Views" />
-</p>
-
-<p align="left">
   <img height="180em" src="https://streak-stats.demolab.com?user=FahmiSie&theme=dark&hide_border=true&background=0D1117&stroke=E05D27&ring=E05D27&fire=E05D27&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=E05D27&sideLabels=AAAAAA&dates=AAAAAA" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FahmiSie&layout=compact&langs_count=6&theme=github_dark&hide_border=true&title_color=E05D27&text_color=c9d1d9&bg_color=0D1117" />
 </p>
