@@ -65,11 +65,6 @@
 
 ### My Github Stats
 
-<p align="left">
-  <img height="180em" src="https://streak-stats.demolab.com?user=FahmiSie&theme=dark&hide_border=true&background=0D1117&stroke=E05D27&ring=E05D27&fire=E05D27&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=E05D27&sideLabels=AAAAAA&dates=AAAAAA" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FahmiSie&layout=compact&langs_count=6&theme=github_dark&hide_border=true&title_color=E05D27&text_color=c9d1d9&bg_color=0D1117" />
-</p>
-
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:E05D27&height=100&section=footer" width="100%"/>
 </div>
