@@ -65,7 +65,14 @@
 
 ### My Github Stats
 
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=FahmiSie&label=Profile+Views&color=orange&style=flat" alt="Profile Views" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FahmiSie&layout=compact&langs_count=6&theme=github_dark&hide_border=true&title_color=E05D27&text_color=c9d1d9&bg_color=0D1117" />
+</p>
+
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:E05D27&height=100&section=footer" width="100%"/>
 </div>
-.
