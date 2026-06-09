@@ -1,13 +1,11 @@
-# <div align="center">
-
+<div align="center">
 <img src="Fahmi-Bannerr.png" width="100%" />
-
 </div>
 
 <br/>
 
 - 🌍  I'm based in Indonesia
-- 🖥️  See my profile at [famsocial.xyz](https://famosocial.xyz)
+- 🖥️  See my profile at [famsocial.xyz](https://famsocial.xyz)
 - ✉️  You can contact me at [techfam.net@gmail.com](mailto:techfam.net@gmail.com)
 - 📖  I'm currently learning Android Development and Web Development (Fullstack)
 - 🏫  I'm a student at [SMK Telkom Malang](https://smktelkom-mlg.sch.id)
@@ -17,12 +15,21 @@
 ### Socials
 
 <p align="left">
-<a href="https://discord.com/fahmisie" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>&nbsp;
-<a href="https://github.com/FahmiSie" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>&nbsp;
-<a href="https://instagram.com/fahmi_maw" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>&nbsp;
-<a href="mailto:techfam.net@gmail.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gmail.svg" width="32" height="32" /></a>&nbsp;
-<a href="https://wa.me/6282139163361" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="32" height="32" /></a>&nbsp;
-<a href="https://linkedin.com/in/fahmisie" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+<a href="https://discord.com" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" />
+</a>&nbsp;
+<a href="https://github.com/FahmiSie" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+</a>&nbsp;
+<a href="https://instagram.com/fahmi_maw" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
+</a>&nbsp;
+<a href="https://wa.me/6282139163361" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="32" height="32" />
+</a>&nbsp;
+<a href="https://linkedin.com/in/fahmisie" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+</a>
 </p>
 
 ---
@@ -59,16 +66,14 @@
 ### My Github Stats
 
 <p align="left">
-<img src="https://komarev.com/ghpvc/?username=FahmiSie&label=Profile+Views&color=1f6feb&style=flat" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=FahmiSie&label=Profile+Views&color=orange&style=flat" alt="Profile Views" />
 </p>
 
 <p align="left">
-<a href="https://github.com/FahmiSie">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FahmiSie&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&title_color=ff6b6b&icon_color=58a6ff&text_color=c9d1d9&bg_color=161b22"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FahmiSie&layout=compact&langs_count=7&theme=github_dark&hide_border=true&title_color=ff6b6b&text_color=c9d1d9&bg_color=161b22"/>
-</a>
+  <img height="180em" src="https://streak-stats.demolab.com?user=FahmiSie&theme=dark&hide_border=true&background=0D1117&stroke=E05D27&ring=E05D27&fire=E05D27&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=E05D27&sideLabels=AAAAAA&dates=AAAAAA" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FahmiSie&layout=compact&langs_count=6&theme=github_dark&hide_border=true&title_color=E05D27&text_color=c9d1d9&bg_color=0D1117" />
 </p>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e3f2fd,100:1565c0&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:E05D27&height=100&section=footer" width="100%"/>
 </div>
