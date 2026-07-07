@@ -1,5 +1,4 @@
 <div align="center">
-<img src="Fahmi-Bannerr.png" width="100%" />
 </div>
 
 <br/>
