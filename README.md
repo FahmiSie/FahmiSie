@@ -23,7 +23,7 @@
 <a href="https://instagram.com/fahmi_maw" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
 </a>&nbsp;
-<a href="https://wa.me/6282139163361" target="_blank" rel="noreferrer">
+<a href="https://wa.me/" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="32" height="32" />
 </a>&nbsp;
 <a href="https://linkedin.com/in/fahmisie" target="_blank" rel="noreferrer">
